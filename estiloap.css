@@ -1,0 +1,1366 @@
+*{
+margin:0px;
+}
+.logo{
+background-image: url("imagens/logo.png");
+width: 180px;
+height: 100px;
+margin-top: -0.35%;
+position: absolute;
+background-size: cover;
+}
+.home{
+background-image: url("imagens/home.png");
+width: 60px;
+height: 60px;
+margin-left:-255px;
+margin-top: -0.5%;
+position: absolute;
+background-size: cover;
+
+}
+.bebes{
+background-image: url("imagens/bebes.png");
+width: 60px;
+height: 60px;
+margin-left:-205px;
+margin-top: -0.05%;
+position: absolute;
+background-size: cover;
+}
+.doacoes{
+background-image: url("imagens/doacao.png");
+width: 95px;
+height: 60px;
+margin-left:-160px;
+margin-top:2px;
+position: absolute;
+background-size: cover;
+}
+.login{
+background-image: url("imagens/login.png");
+width: 60px;
+height: 60px;
+margin-left:-65px;
+margin-top:-1px;
+position: absolute;
+background-size: cover;
+}
+.sobre{
+background-image: url("imagens/sobre.png");
+width: 80px;
+height: 60px;
+margin-left:-25px;
+margin-top: 2px;
+position: absolute;
+background-size: cover;
+
+}
+.menu{
+background-color: #99ccff;
+width: 100%;
+height: 100px;
+top:0;
+position: fixed;
+z-index:99;
+}
+.menu ul  li{
+color: black;
+display: inline-block;
+color: white;
+font-family: 'Prata', serif;
+padding: 8px;
+}
+/* CSS DOAÇÕES*/
+
+.logoo{
+background-image: url("imagens/logo.png");
+width: 180px;
+height: 100px;
+margin-top: -0.5%;
+position: absolute;
+background-size: cover;
+}
+
+.homee{
+background-image: url("imagens/home.png");
+width: 60px;
+height: 60px;
+margin-left:-255px;
+margin-top: -1.52%;
+position: absolute;
+background-size: cover;
+
+}
+.bebees{
+background-image: url("imagens/bebes.png");
+width: 60px;
+height: 60px;
+margin-left:-200px;
+margin-top: -1.1%;
+position: absolute;
+background-size: cover;
+}
+.doacoees{
+background-image: url("imagens/doacao.png");
+width: 95px;
+height: 60px;
+margin-left:-155px;
+margin-top: -0.92%;
+position: absolute;
+background-size: cover;
+}
+.logiin{
+background-image: url("imagens/login.png");
+width: 60px;
+height: 60px;
+margin-left:-2.95%;
+margin-top: -0.99%;
+position: absolute;
+background-size: cover;
+}
+.sobree{
+background-image: url("imagens/sobre.png");
+width: 80px;
+height: 60px;
+margin-left:-5px;
+margin-top: -0.85%;
+position: absolute;
+background-size: cover;
+
+}
+
+.temp{
+font-family: 'Prata', serif;
+
+background-image: url("imagens/tempo.png");
+background-size:100% 100%;
+width: 100px;
+height: 100px;
+margin-left: 180px;
+margin-top: 200px;
+transition: transform .2s;
+}
+
+.temp:hover {
+  transform: scale(1.5);
+}
+
+.temp h1{
+font-size:1.2 em;
+margin-left:150px;
+}
+.collapsible {
+font-family: 'Prata', serif;
+
+	margin-top:-30px;
+	margin-left:15px;
+  background-color:#99ccff;
+  color:white;
+  padding: 18px;
+  width: 152px;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+
+
+
+.did {
+height:600px;
+width:100%;
+background-image:url("imagens/doar.jpg");
+background-size: cover;
+}
+
+.tes h1{
+margin-top:100px;
+text-align:center;
+font-family: 'Prata', serif;
+margin-top:10px;
+}
+
+.tes p{
+font-size:1em;
+text-align:center;
+font-family: 'Prata', serif;
+}
+
+.logoo{
+background-image: url("imagens/logo.png");
+width: 180px;
+height: 100px;
+margin-top: -0.5%;
+position: absolute;
+background-size: cover;
+}
+
+.titulo{
+text-align:center;
+font-size:2em;
+background-color: white;
+  color: black;
+  font-size: 10vw; /* Responsive font size */
+  font-weight: bold;
+  margin: 0 auto; /* Center the text container */
+  padding: 10px;
+  width: 50%;
+  text-align: center; /* Center text */
+  position: absolute; /* Position text */
+  top: 50%; /* Position text in the middle */
+  left: 50%; /* Position text in the middle */
+  transform: translate(-50%, -50%); /* Position text in the middle */
+  mix-blend-mode: screen; /* This makes the cutout text possible */
+}
+
+.rodi{
+margin-left:35%;
+margin-top:5%;
+}
+
+.dedo{
+width:15%;
+height:10%;
+margin-top:8%;
+margin-left:85%;
+background-color:#99ccff;
+
+}
+
+.cadastrar{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: black;
+padding: 11px 22px;
+background: -webkit-gradient(
+linear, left top, left bottom,
+from(#8cdbff),
+to(#8cdbff));
+background: linear-gradient(
+top,
+#8cdbff 0%,
+#8cdbff);
+border-radius: 7px;
+border: 5px solid #8cdbff;
+box-shadow:
+0px 1px 3px rgba(140,219,255,0.4),
+inset 0px -1px 0px rgba(140,219,255,0.9);
+text-shadow:
+0px -1px 1px rgba(255,255,255,0.2),
+0px 1px 0px rgba(227,227,227,0.3);
+margin-left:5px;
+margin-top:40px;
+
+
+}
+
+.hoho{
+margin-left:-500px;
+background-color:ADD8E9;
+margin-top:-500px;
+height:550px;
+}
+
+.titulo{
+font-family: 'Prata', serif;
+
+text-align:center;
+font-size:2em;
+background-color: white;
+  color: black;
+  font-size: 10vw; /* Responsive font size */
+  font-weight: bold;
+  margin: 0 auto; /* Center the text container */
+  padding: 10px;
+  width: 50%;
+  text-align: center; /* Center text */
+  position: absolute; /* Position text */
+  top: 50%; /* Position text in the middle */
+  left: 50%; /* Position text in the middle */
+  transform: translate(-50%, -50%); /* Position text in the middle */
+  mix-blend-mode: screen; /* This makes the cutout text possible */
+
+}
+
+.fundo{
+background-image: url('imagens/mao.jpg');
+background-size:cover;
+background-repeat: no-repeat;
+width:100%;
+height:300px;
+background-position: center;
+}
+
+.tit{
+font-family: 'Prata', serif;
+text-align:center;
+margin-top:70px;
+font-weight:bold;
+color:black;;
+}
+/* fim css doações*/
+
+
+.nav{
+text-align: center;
+font-size: 2em;
+text-decoration: none;
+margin-top: 1%;
+margin-left:95px;
+}
+.fobe{
+margin-left:200px;
+margin-top:10px;
+width:400px;
+height:400px;
+}
+.fobe2{
+width:400px;
+height:400px;
+MARGIN-TOP:85px;
+}
+.conteudo1{
+font-family: 'Prata', serif;
+height:950px;
+background-image:url('imagens/maozinha.jpg');
+background-size: cover;
+font-size:1.1em;
+font-weight:bold;
+color:white;
+}
+
+.copy{
+font-family: 'Prata', serif;
+
+font-weight:bold;
+text-align:center;
+font-size:1.0em;
+}
+.face{
+width:55px;
+height:55px;
+margin-top:-70;
+}
+.zap{
+margin-top:-70px;
+width:55px;
+height:55px
+}
+.insta{margin-top:-70px;
+width:55px;
+height:55px
+}
+.opac{
+width:100%;
+height:950px;
+background-color:rgba(0,0,0,0.6);
+}
+.opac p{
+font-family: 'Prata', serif;
+font-size: 6em;
+margin-top: 22%;
+margin-left: 22%;
+text-align: center;
+position: absolute;
+}
+.opac p:hover{
+transition: 1s;
+transform: scale(1.20);
+}
+.conteudo9{
+text-align:center;
+MARGIN-TOP:-650PX;
+font-size:1em;
+margin-left:715PX;
+font-weight:bold;
+color:white;
+}
+.erro{
+font-family: 'Prata', serif;
+
+width:20%;
+border-style: solid;
+margin-left:550px;
+margin-top:300px;
+}
+.erro h1 {
+font-size:35px;
+}
+
+.fundo{
+background-image:url('imagens/castigo.jpg');
+background-size:cover;
+background-repeat: no-repeat;
+width:100%;
+height: 700px; 
+  background-attachment: fixed;
+  background-position: center;
+
+
+}
+.op{
+width:100%;
+height:300px;
+background-color:rgba(0,0,0,0.4);
+}
+
+
+.hehe{
+margin-left:300px;
+}
+
+.hehe img{
+width:500px;
+}
+
+.hoho{
+margin-left:-500px;
+background-color:ADD8E9;
+}
+
+.hoho img{
+width:500px;
+margin-left:650px;
+}
+
+
+.bebe2{
+margin-top:100px;
+margin-left:150px;
+}
+
+
+
+.text1{
+font-family: 'Prata', serif;
+
+font-size: 18px;
+margin-left:-300px;
+margin-top:100px;
+text-align:center;
+
+}
+
+.text2{
+font-family: 'Prata', serif;
+
+font-size: 18px;
+margin-left:200px;
+margin-top:-450px;
+text-align:center;
+
+}
+
+
+.des{
+text-align:center;
+margin-top:100px;
+color:blue;
+margin-bottom:70px;
+}
+
+.isaa{
+font-family: 'Prata', serif;
+
+  background-image: url('imagens/ataa.jpg');
+  background-size: cover; 
+  position: relative;
+  height: 300px;
+  margin-top:79px;
+}
+
+.desc1{
+font-family: 'Prata', serif;
+
+margin-top:100px;
+}
+
+.desc2{
+font-family: 'Prata', serif;
+margin-top:100px;
+}
+.desc3{
+font-family: 'Prata', serif;
+margin-top:100px;
+}
+/* Css cadastro/*/
+.cadastro{
+font-family: 'Prata', serif;
+width:700px;
+height:750px;
+margin-left:450px;
+margin-top:150px;
+box-shadow:5px 5px 8px grey;
+padding-top:50px;
+font-size:0.55em;
+}
+.cadastro h1{
+font-family: 'Prata', serif;
+
+	font-weight:bold;
+	padding-bottom:12px;
+	text-align:center;
+
+}
+.clas{
+margin-top:25px;
+margin-bottom:45px;
+font-family: 'Prata', serif;
+font-size:2.5em;
+text-align:center;
+font-weight:bold;
+}
+.clas:hover{
+text-decoration: underline;
+	transform:scale(1.15);
+	transition:2s;
+}
+
+.bebezinho{
+background-image:url("imagens/pezinho.jpg");
+width:100%;
+height:800px;
+}
+
+input[type=text]{  
+	font-weight:bold;
+ 
+background-color:rgba(0,0,0,0);
+border-bottom-style:solid;
+border-left:none;
+border-right:none;
+border-top:none;
+    width:200px;
+	height:35px;
+	font-family: 'Prata', serif;
+
+}
+
+ select{
+ 	font-weight:bold;
+
+ background-color:none;
+border-bottom-style:solid;
+border-left:solid;
+border-right:solid;
+border-top:solid;
+width:200px;
+height:35px;
+	font-family: 'Prata', serif;
+ 
+ }
+		input[type=submit]{
+			font-weight:bold;
+
+		font-family: 'Prata', serif;
+
+		background-color:rgba(0,0,0,0);
+		width:200px;
+		height:35px;
+        background:#006699;
+        color:#ffffff;
+}
+		input[type=email]{ 
+	font-weight:bold;
+		
+		font-family: 'Prata', serif;
+
+		background-color:rgba(0,0,0,0);
+
+		border-bottom-style:solid;
+		border-left:none;
+		border-right:none;
+		border-top:none;
+		width:200px;
+		height:35px;
+} 
+	input[type=password]{  
+		font-weight:bold;
+
+
+font-family: 'Prata', serif;
+	
+	background-color:rgba(0,0,0,0);
+
+    border-bottom-style:solid;
+	border-left:none;
+	border-right:none;
+	border-top:none;
+    width:200px;
+	height:35px;
+} 
+
+.nm{
+font-family: 'Prata', serif;
+
+	margin-left:-400px;
+}
+			
+.nm1{
+font-family: 'Prata', serif;
+	margin-left:250px;
+	margin-top:-80px;
+	}
+.nm2{
+font-family: 'Prata', serif;
+
+margin-left:-400px;
+}
+.nm3{
+font-family: 'Prata', serif;
+
+	margin-left:250px;
+	margin-top:-80px;
+}
+.nm4{
+font-family: 'Prata', serif;
+
+	margin-left:-400px;
+}
+.nm5{
+font-family: 'Prata', serif;
+
+	margin-left:250px;
+	margin-top:-80px;
+}
+.nm6{
+font-family: 'Prata', serif;
+
+	margin-left:-650px;
+	font-size:0.50em;
+	margin-top:25px;
+}
+.nm7{
+font-family: 'Prata', serif;
+
+	margin-right:-20px;
+	font-size:0.50em;
+	margin-top:-70px;
+}
+.nm8{
+font-family: 'Prata', serif;
+
+margin-left:-650px;
+font-size:0.50em;
+margin-top:25px;
+}
+.nm9{
+font-family: 'Prata', serif;
+
+	margin-right:-20px;
+	font-size:0.50em;
+	margin-top:-70px;
+}
+.nm10{
+font-family: 'Prata', serif;
+
+	margin-left:-650px;
+	font-size:0.55em;
+	margin-top:25px;
+	}
+.nm11{
+			font-family: 'Prata', serif;
+
+			margin-right:-20px;
+			font-size:0.55em;
+			margin-top:-70px;
+			}
+.nm12{
+font-family: 'Prata', serif;
+
+			margin-left:-650px;
+			font-size:0.50em;
+			margin-top:25px;
+			}
+.nm13{
+font-family: 'Prata', serif;
+
+			margin-right:-20px;
+			font-size:0.50em;
+			margin-top:-60px;
+			}
+.enviar{
+margin-top:5%;
+margin-left:16%;		
+width:8%;
+height:5%;
+background:#99ccff;	
+}
+	.envear{
+margin-top:5%;
+margin-left:16%;		
+width:25%;
+height:10%;
+background:#99ccff;	
+}			
+	input[type=reset]{  
+font-family: 'Prata', serif;
+	
+					background: #99ccff;
+					padding:10px 30px;
+					padding-left:10px;
+					padding-right:10px;
+					margin-top:-50px;
+					width:100px;
+					height:40px;
+}
+
+.men{
+
+background-color: #99ccff;
+width: 100%;
+height: 95px;
+position: fixed;
+top:0;
+z-index:99;
+font-family: 'Oswald', sans-serif;
+}
+.men ul  li{
+color: black;
+display: inline-block;
+color: white;
+font-family: 'Oswald', sans-serif;
+padding: 8px;
+}
+
+.na{
+
+text-align: center;
+font-size: 2em;
+text-decoration: none;
+margin-top: 15%;
+margin-left:95px;
+}
+.logar {
+font-family: 'Prata', serif;
+ height: 50%;
+ width:  28%;
+ margin-left:600px;
+ margin-top:-600px;
+ box-shadow:5px 5px 8px grey;
+}
+.logar h1{
+text-decoration:none;
+	margin-left:160px;
+	margin-top:27px;
+
+}
+.usu{
+font-family: 'Prata', serif;
+
+	margin-left:40px;
+	margin-top:20px;
+}
+.usu h1{
+	font-size:1.5em;
+	margin-left:28px;
+}
+.sen{
+	margin-left:45px;
+}
+.sen h1{
+	font-size:1.5em;
+	margin-left:26px;
+}
+input[type=email]{   
+	font-weight:bold;
+
+font-family: 'Prata', serif;
+
+	border-bottom-style:solid;
+	border-left:none;
+	border-right:none;
+	border-top:none;
+	margin-top:0px;
+	height:30px;
+	width:240px;
+	margin-left:29px;
+
+} 
+input[type=password]{   
+	font-weight:bold;
+font-family: 'Prata', serif;
+
+    border-bottom-style:solid;
+	border-left:none;
+	border-right:none;
+	border-top:none;
+	height:30px;
+	width:240px;
+	margin-left:24px;
+
+} 
+.enviarr li{
+
+	background: #99ccff;
+	padding:10px 30px;
+	margin-top:40px;
+	margin-left:135px;
+	text-decoration: none;
+}
+
+.enviarr:hover{
+	transition:0.8s;
+	tranform:scale(1.15);
+
+}
+.cadastrar{
+font-family: 'Prata', serif;
+	padding-left:45px;
+	background: #99ccff;
+	margin-top:55px;
+	margin-top:-2.5%;
+	margin-left:235px;
+}
+.cadastrar  li{
+font-family: 'Prata', serif;
+
+display: inline-block;
+}
+.img_bebe{
+font-family: 'Prata', serif;
+
+margin-top:50px;
+background-image:url("imagens/bebezinho.jpg");
+width:100%;
+height:800px;
+}
+.aroeiro{
+font-family: 'Prata', serif;
+
+	border:static;
+	
+}
+/* Fim de cadastro*/
+
+/* css Perfil*/
+.menn{
+font-family: 'Prata', serif;
+z-index:99;/*
+position:fixed;*/
+background-color: #99ccff;
+width: 100%;
+height: 100px;
+}
+
+
+.menuToggle
+{
+font-family: 'Prata', serif;
+  display: block;
+  position: relative;
+  top:102px;
+  margin-left:1px;
+  z-index: 1;
+  -webkit-user-select: none;
+  user-select: none;
+}
+.menuToggle input
+{
+font-family: 'Prata', serif;
+
+  display: block;
+  width: 40px;
+  height: 32px;
+  position: absolute;
+  top: 5%;
+  left: -5px;
+  cursor: pointer;
+  opacity: 0; /* hide this */
+  z-index: 2; /* and place it over the hamburger */
+  
+  -webkit-touch-callout: none;
+}
+
+/*
+ * Just a quick hamburger
+ */
+.menuToggle span
+{
+	margin-top:2%;
+  display: block;
+  width: 33px;
+  height: 4px;
+  margin-bottom: 5px;
+  position: relative;
+  background: black;
+  border-radius: 3px;
+  z-index: 1; 
+  transform-origin: 4px 0px;
+  
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              opacity 0.55s ease;
+}
+
+.menuToggle span:first-child
+{
+  transform-origin: 0% 0%;
+}
+
+.menuToggle span:nth-last-child(2)
+{
+  transform-origin: 0% 100%;
+}
+
+/* 
+ * Transform all the slices of hamburger
+ * into a crossmark.
+ */
+.menuToggle input:checked ~ span
+{
+  opacity: 1;
+  transform: rotate(45deg) translate(-2px, -1px);
+  background: #232323;
+}
+
+/*
+ * But let's hide the middle one.
+ */
+.menuToggle input:checked ~ span:nth-last-child(3)
+{
+  opacity: 0;
+  transform: rotate(0deg) scale(0.2, 0.2);
+}
+
+/*
+ * Ohyeah and the last one should go the other direction
+ */
+.menuToggle input:checked ~ span:nth-last-child(2)
+{
+  transform: rotate(-45deg) translate(0, -1px);
+}
+
+/*
+ * Make this absolute positioned
+ * at the top left of the screen
+ */
+.menuu
+{
+font-family: 'Prata', serif;
+
+	margin-left:-11px;
+height:800px;
+  position: absolute;
+  width: 100px;
+  padding: 50px;
+  margin-top:-20%;
+  background:  #99ccff;
+  list-style-type: none;
+  -webkit-font-smoothing: antialiased;
+  /* to stop flickering of text in safari */
+  
+  transform-origin: 0% 0%;
+  transform: translate(-100%, 0);
+  
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
+}
+
+.menuu li{
+	margin-left:-25px;
+margin-top:25px;
+text-decoration:none;
+color: black;
+display: inline-block;
+color: white;
+font-family: 'Prata', serif;
+padding: 8px;
+}
+.menuu li:hover{
+	color:black;
+	text-decoration:underline;
+	
+}
+/*
+ * And let's slide it in from the left
+ */
+.menuToggle input:checked ~ ul
+{
+  transform: none;
+}
+
+.dropdown {
+margin-top:-15px;
+margin-left:1250px;
+  position: relative;
+  display: inline-block;
+}
+.dropdown img{
+width:82px;
+height:50px;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown  li{
+	display:inline-block;
+	color:black;
+	padding-bottom:15px;
+	padding-top:15px;
+text-decoration:none;
+}
+.dropdown:hover .dropdown-content {
+	padding-bottom:15px;
+	padding-top:15px;
+  display: block;
+ }
+ /* Fim do Perfil*/
+ 
+ /*Pagina de bebes */
+.slidershow{
+	border-radius:6px;
+	box-shadow:2px, 1px, 3px;
+  width: 50%;
+  height: auto;
+  overflow: hidden;
+}
+.middle{
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+.navigation{
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+}
+.bar{
+  width: 50px;
+  height: 10px;
+  border: 2px solid #fff;
+  margin: 6px;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.bar:hover{
+  background: #99ccff;
+}
+
+input[name="r"]{
+    position: absolute;
+    visibility: hidden;
+}
+
+.slides{
+  width: 500%;
+  height: 100%;
+  display: flex;
+}
+
+.slide{
+  width: 20%;
+  transition: 0.6s;
+}
+.slide img{
+  width: 100%;
+  height: 100%;
+}
+
+#r1:checked ~ .s1{
+  margin-left: 0;
+}
+#r2:checked ~ .s1{
+  margin-left: -20%;
+}
+#r3:checked ~ .s1{
+  margin-left: -40%;
+}
+#r4:checked ~ .s1{
+  margin-left: -60%;
+}
+#r5:checked ~ .s1{
+  margin-left: -80%;
+}
+
+
+.mao{
+background-image: url("imagens/logo.png");
+width: 180px;
+height: 100px;
+margin-top: -0.35%;
+position: absolute;
+background-size: cover;
+}
+.casa{
+background-image: url("imagens/home.png");
+width: 60px;
+height: 60px;
+margin-left:-20%;
+margin-top: -1%;
+position: absolute;
+background-size: cover;
+
+}
+.cat{
+background-image: url("imagens/bebes.png");
+width: 60px;
+height: 60px;
+margin-left:-16%;
+margin-top: -0.5%;
+position: absolute;
+background-size: cover;
+}
+.dog{
+background-image: url("imagens/doacao.png");
+width: 95px;
+height: 60px;
+margin-left:-12%;
+margin-top:-0.5%;
+position: absolute;
+background-size: cover;
+}
+.chupeta{
+background-image: url("imagens/login.png");
+width: 60px;
+height: 60px;
+margin-left:-6%;
+margin-top:-1%;
+position: absolute;
+background-size: cover;
+}
+.info{
+background-image: url("imagens/sobre.png");
+width: 80px;
+height: 60px;
+margin-left:-2%;
+margin-top: -1%;
+position: absolute;
+background-size: cover;
+}
+
+.mmeenu{
+background-color: #99ccff;
+width: 100%;
+height: 100px;
+top:0;
+position: fixed;
+z-index:99;
+}
+.mmeenu ul  li{
+color: black;
+display: inline-block;
+color: white;
+font-family:	;
+padding: 8px;
+}
+
+.incubadora{
+font-family: 'Prata', serif;
+
+color:black;
+margin-top:60%;
+text-align:center;
+}
+
+.incubadora h1{
+text-align:center;
+margin-top:-6%;
+margin-bottom:5%;
+
+}
+.classificacao{
+font-family: 'Prata', serif;
+
+color:black;
+margin-top:60px;
+text-align:center;
+}
+.classificacao h1{
+text-align:center;
+margin-bottom:5%;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+.classificacao img{
+	border-radius:4px;
+margin-top:85px;
+  width: 50%;
+  height: auto;
+
+}
+/* Fim da pagina do bebê */
+
+/* CSS Alterar foto*/
+.pen{
+font-family: 'Prata', serif;
+
+  width: 50%;
+  height: auto;
+  	border-radius:4px;
+
+}
+.cadas_usu{
+	font-size:2em;
+	text-align:center;
+	
+}
+.exibir{
+margin-left:30%;
+font-size:1.5em;
+}
+.file{
+	width:6%;
+	height:8%;
+	
+}
+
+.exibir{
+  background-color: white;
+  width: 700px;
+  height: 500px;
+  margin-left: 27%;
+  margin-top: 5%;
+  position: absolute;
+  overflow: scrollbar-thumb;
+}
+table{
+  color: #000;
+  background-color: #99ccff;
+box-shadow:5px 5px 8px grey;
+font-weight:bold;
+  border: 1px solid #000;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  position: absolute;
+  border-radius: 10px;
+
+}
+table td{
+  border: 1px solid #;
+  padding-left: 8px;
+  padding-right: 8px;
+  color: none;
+  position: relative;
+}
+.doc h1{
+
+	margin-top:2%;
+	text-align:center;
+	width:100%;
+	
+}
+.log{
+	margin-left:-7%;
+	height:65%;
+	width:80%;
+	border-radius:5px;
+}
+.h2{
+	margin-top:2%;
+	text-align:center;
+	margin-left:-25%
+}
+
+.eu{
+background-size: cover;
+background-image: url("imagens/erick.jpg");
+transform: rotate(-75deg);
+height:300px;
+width:300px;
+margin-left:26%;
+border-radius:300px;
+border: 2px solid blue;
+margin-top:45px;
+font-family: 'Prata', serif;
+
+}
+
+.ela{
+font-family: 'Prata', serif;
+background-size: cover;
+border-radius:300px;
+background-image: url("imagens/elysandra.jpeg");
+margin-left:80%;
+border: 2px solid blue;
+height:300px;
+width:300px;
+margin-top:-300px;
+}
+.el{
+	margin-top:300px;
+	font-family: 'Prata', serif;
+	font-size:1.2em;
+	margin-left:80%;
+}
+.er{
+font-weight:bold;
+	font-family: 'Prata', serif;
+transform: rotate(0deg);
+	font-size:1.1em;
+	margin-left:700px;
+}
+.aqui{
+	font-family: 'Prata', serif;
+	text-align:right;
+	font-weight:bold;
+	font-size:1em;
+	margin-top:100px;
+	margin-right:26%;
+}
+.aqisb{
+
+	font-family: 'Prata', serif;
+
+	font-size:1.5em;
+	margin-top:-350px;
+	margin-left:18%;
+	margin-bottom:5%;
+	text-align:center;
+	
+}
+.rodape{
+font-family: 'Prata', serif;
+margin-top:115px;
+font-weight:bold;
+width:100%;
+height:5%;
+padding-top:0.5%;
+background-color:rgba(214, 230, 255);
+
+}
+.rodape h1{
+	font-family: 'Prata', serif;
+
+	margin-left:15%;
+}
+.bbb{
+margin-bottom:550px;
+margin-left:150px;
+margin-top:60px;
+height:500px;
+width:500px;
+position: absolute;
+}
+.bebe1{
+margin-bottom:550px;
+margin-left:-160px;
+margin-top:50px;
+height:500px;
+width:500px;
+}
+.rodape_index{
+	
+	font-family: 'Prata', serif;
+
+font-weight:bold;
+width:100%;
+height:1px;
+padding-top:28px;
+padding-bottom:40px;
+background-color:rgba(214, 230, 255);
+}
+::-webkit-scrollbar { 
+    display: none; 
+}
